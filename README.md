@@ -1,2 +1,2 @@
 # JavaGUI
-I am learning Java Programming Language
+Java Programming Language Basics
